@@ -5,4 +5,4 @@ LeoFlix
 https://htmlpreview.github.io/?https://github.com/Ieo-p/ImersaoDEV-Projetos/blob/main/LeoFlix/index.html
 
 Mentalista
-https://github.com/Ieo-p/ImersaoDEV-Projetos/blob/main/Mentalista/index.html
+https://htmlpreview.github.io/?https://github.com/Ieo-p/ImersaoDEV-Projetos/blob/main/Mentalista/index.html
